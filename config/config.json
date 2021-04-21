@@ -1,0 +1,36 @@
+{
+    "minter": {
+        "nodeList": [
+            {
+                "url": "http://62.182.156.133:8843/v2/",
+                "headers": []
+            },
+            {
+                "url": "https://test.mnt.funfasy.dev/v0.2/",
+                "headers": {
+                    "X-Project-Id": [
+                        "bf9d8455-6766-480d-abf7-165e94034705"
+                    ],
+                    "X-Project-Secret": [
+                        "19939729d54a5107816993dd9c99a520"
+                    ]
+                }
+            }
+        ],
+        "Validator": {
+            "testnet": true,
+            "ownerSeed": "argue spider slab admit cheese local cherry cool crane sea fish term",
+            "ownerWallet": "Mx8e37e797422abb977914e2878e14c8a3a67ba5a1",
+            "publicKey": "Mpbf64d15c692dee2914b941041a86b385f9d7b0b6ab2d2debe2fd86e362eba0e4",
+            "maxMissedBlockes": 3
+        }
+    },
+    "telegram": {
+        "token": "1753770298:AAE0R7Hc0kiNTfMYthbC663QmhJHIuwUf9s",
+        "chatId": [
+            -471444531,
+            275795641
+        ],
+        "debug": false
+    }
+}
